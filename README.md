@@ -1,5 +1,5 @@
 # soc-home-lab
-# SOC Home Lab — Report 1: Building a Wazuh SIEM from Scratch
+# Report 1: Building a Wazuh SIEM from Scratch
 
 **Author:** Ashritha Bollam
 **Date:** 23 November 2026
